@@ -1,0 +1,1 @@
+export const backUrl = process.env.NODE_ENV === 'production' ? 'https://egoingboard-ba08w13os-rladudgh321s-projects.vercel.app/' : 'http://localhost:3065';
